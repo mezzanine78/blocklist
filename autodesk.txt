@@ -18,31 +18,6 @@
 127.0.0.1 imgs.hcaptcha.com
 127.0.0.1 s-agent.newrelic.com
 127.0.0.1 bam.nr-data.net
-
-
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 na1r.services.adobe.com
-127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 activate.adobe.com
-127.0.0.1 genuine.adobe.com
-127.0.0.1 prod.adobegenuine.com
-
-127.0.0.1 activate.adobe.com
-127.0.0.1 ereg.adobe.com
-127.0.0.1 activate.wip3.adobe.com
-127.0.0.1 wip3.adobe.com
-127.0.0.1 3dns-3.adobe.com
-127.0.0.1 3dns-2.adobe.com
-127.0.0.1 ereg.wip3.adobe.com
-127.0.0.1 activate-sea.adobe.com
-127.0.0.1 wwis-dubc1-vip60.adobe.com
-127.0.0.1 activate-sjc0.adobe.com
-127.0.0.1 adobe-dns.adobe.com
-127.0.0.1 adobe-dns-2.adobe.com
-127.0.0.1 adobe-dns-3.adobe.com
-127.0.0.1 practivate.adobe.com
 127.0.0.1 autodesk.fi
 127.0.0.1 autodesk.de
 127.0.0.1 autodesk.es
