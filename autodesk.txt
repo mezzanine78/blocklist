@@ -1,24 +1,23 @@
-www.autodesk.com
-access.clic.autodesk.com
-clm.clic.autodesk.com
-accounts.autodesk.com
-ipm-aem.autodesk.com
-cdn.accounts.autodesk.com
-cur.autodesk.com
-registeronce.autodesk.com
-developer.api.autodesk.com
-auth.autodesk.com
-native.auth.autodesk.com
-profile.autodesk.com
-api.userprofile.autodesk.com
-cdn.web-platform.io
-newassets.hcaptcha.com
-js.hcaptcha.com
-hcaptcha.com
-imgs.hcaptcha.com
-s-agent.newrelic.com
-bam.nr-data.net
-
+127.0.0.1 www.autodesk.com
+127.0.0.1 access.clic.autodesk.com
+127.0.0.1 clm.clic.autodesk.com
+127.0.0.1 accounts.autodesk.com
+127.0.0.1 ipm-aem.autodesk.com
+127.0.0.1 cdn.accounts.autodesk.com
+127.0.0.1 cur.autodesk.com
+127.0.0.1 registeronce.autodesk.com
+127.0.0.1 developer.api.autodesk.com
+127.0.0.1 auth.autodesk.com
+127.0.0.1 native.auth.autodesk.com
+127.0.0.1 profile.autodesk.com
+127.0.0.1 api.userprofile.autodesk.com
+127.0.0.1 cdn.web-platform.io
+127.0.0.1 newassets.hcaptcha.com
+127.0.0.1 js.hcaptcha.com
+127.0.0.1 hcaptcha.com
+127.0.0.1 imgs.hcaptcha.com
+127.0.0.1 s-agent.newrelic.com
+127.0.0.1 bam.nr-data.net
 
 
 127.0.0.1 lmlicenses.wip4.adobe.com
