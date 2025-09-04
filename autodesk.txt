@@ -1,0 +1,179 @@
+www.autodesk.com
+access.clic.autodesk.com
+clm.clic.autodesk.com
+accounts.autodesk.com
+ipm-aem.autodesk.com
+cdn.accounts.autodesk.com
+cur.autodesk.com
+registeronce.autodesk.com
+developer.api.autodesk.com
+auth.autodesk.com
+native.auth.autodesk.com
+profile.autodesk.com
+api.userprofile.autodesk.com
+cdn.web-platform.io
+newassets.hcaptcha.com
+js.hcaptcha.com
+hcaptcha.com
+imgs.hcaptcha.com
+s-agent.newrelic.com
+bam.nr-data.net
+
+
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 genuine.adobe.com
+127.0.0.1 prod.adobegenuine.com
+
+127.0.0.1 activate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 autodesk.fi
+127.0.0.1 autodesk.de
+127.0.0.1 autodesk.es
+127.0.0.1 autodesk.ca
+127.0.0.1 autodesk.dk
+127.0.0.1 autodesk.pl
+127.0.0.1 ns1.autodesk.com
+127.0.0.1 ns2.autodesk.com
+127.0.0.1 ns3.autodesk.com
+127.0.0.1 a.gtld-servers.net
+127.0.0.1 b.gtld-servers.net
+127.0.0.1 c.gtld-servers.net
+127.0.0.1 d.gtld-servers.net
+127.0.0.1 e.gtld-servers.net
+127.0.0.1 f.gtld-servers.net
+127.0.0.1 g.gtld-servers.net
+127.0.0.1 h.gtld-servers.net
+127.0.0.1 i.gtld-servers.net
+127.0.0.1 j.gtld-servers.net
+127.0.0.1 k.gtld-servers.net
+127.0.0.1 l.gtld-servers.net
+127.0.0.1 ns1.autodesk.com
+127.0.0.1 m.gtld-servers.net
+127.0.0.1 adobeereg.com
+127.0.0.1 126114-app1.autodesk.com
+127.0.0.1 94175-app1.autodesk.com
+127.0.0.1 94184-app2.autodesk.com
+127.0.0.1 96579-lbal1.autodesk.com
+127.0.0.1 acamp.autodesk.com
+127.0.0.1 adeskdi3.autodesk.com
+127.0.0.1 adeskdmzpdc.autodesk.com
+127.0.0.1 adeskgate.autodesk.com
+127.0.0.1 adesknews2.autodesk.com
+127.0.0.1 adeskout.autodesk.com
+127.0.0.1 adsknateur.autodesk.com
+127.0.0.1 amernetlog.autodesk.com
+127.0.0.1 app5.autodesk.com
+127.0.0.1 aprimo-relay1.autodesk.com
+127.0.0.1 aprimo-relay2.autodesk.com
+127.0.0.1 aprimo-relay3.autodesk.com
+127.0.0.1 aprimo-relay4.autodesk.com
+127.0.0.1 autosketch.autodesk.com
+127.0.0.1 blues.autodesk.com
+127.0.0.1 cbuanprd.autodesk.com
+127.0.0.1 cbuanprhcllb.autodesk.com
+127.0.0.1 cbuanqa2lb.autodesk.com
+127.0.0.1 ci3dwsdev-svc.autodesk.com
+127.0.0.1 ci3dwsprd-svc.autodesk.com
+127.0.0.1 ci3dwsstg-svc.autodesk.com
+127.0.0.1 community.autodesk.com
+127.0.0.1 cut.autodesk.com
+127.0.0.1 cvsprd01.autodesk.com
+127.0.0.1 discussion.autodesk.com
+127.0.0.1 eur.autodesk.com
+127.0.0.1 extcidev.autodesk.com
+127.0.0.1 extciqa.autodesk.com
+127.0.0.1 extupg.autodesk.com
+127.0.0.1 ftp-users.autodesk.com
+127.0.0.1 ftp2b.autodesk.com
+127.0.0.1 gisdmzpdc.autodesk.com
+127.0.0.1 hqaribasrf04.autodesk.com
+127.0.0.1 hqmgwww01.autodesk.com
+127.0.0.1 hqmgwww04.autodesk.com
+127.0.0.1 hqmobileweb01.autodesk.com
+127.0.0.1 hqprxsrftrn.autodesk.com
+127.0.0.1 hqpsweb01.autodesk.com
+127.0.0.1 hubdev-svc.autodesk.com
+127.0.0.1 hubprd-svc.autodesk.com
+127.0.0.1 hubstg-svc.autodesk.com
+127.0.0.1 itappprd01-svc.autodesk.com
+127.0.0.1 itappprd02-svc.autodesk.com
+127.0.0.1 its.autodesk.com
+127.0.0.1 jdevextv-new.autodesk.com
+127.0.0.1 jp.autodesk.com
+127.0.0.1 jstgextv-new.autodesk.com
+127.0.0.1 jstgintv-new.autodesk.com
+127.0.0.1 lbsvzw.autodesk.com
+127.0.0.1 lbsvzw1.autodesk.com
+127.0.0.1 lbsvzw2.autodesk.com
+127.0.0.1 library.autodesk.com
+127.0.0.1 liveupdate.autodesk.com
+127.0.0.1 locationservices.autodesk.com
+127.0.0.1 lsctsol04.autodesk.com
+127.0.0.1 mail-relay.autodesk.com
+127.0.0.1 mneprdext-svc.autodesk.com
+127.0.0.1 mut.autodesk.com
+127.0.0.1 nbugma-dmz.autodesk.com
+127.0.0.1 ns1.autodesk.com
+127.0.0.1 ns2.autodesk.com
+127.0.0.1 ns3.autodesk.com
+127.0.0.1 ns4.autodesk.com
+127.0.0.1 ns5.autodesk.com
+127.0.0.1 nut.autodesk.com
+127.0.0.1 otw-new.autodesk.com
+127.0.0.1 otwdownloads.autodesk.com
+127.0.0.1 partnercenter.autodesk.com
+127.0.0.1 partnerproducts.autodesk.com
+127.0.0.1 paste.autodesk.com
+127.0.0.1 pedidrq.autodesk.com
+127.0.0.1 pediqrx.autodesk.com
+127.0.0.1 petars1.autodesk.com
+127.0.0.1 petcp11ia-2nat.autodesk.com
+127.0.0.1 petcr12ihsrp2.autodesk.com
+127.0.0.1 phxgciv.autodesk.com
+127.0.0.1 phxgciv_dr.autodesk.com
+127.0.0.1 planix3d.autodesk.com
+127.0.0.1 pointa.autodesk.com
+127.0.0.1 register.autodesk.com
+127.0.0.1 registerallied-pr.autodesk.com
+127.0.0.1 registeronce.autodesk.com
+127.0.0.1 salestraining.autodesk.com
+127.0.0.1 searchnews.autodesk.com
+127.0.0.1 shop.autodesk.com
+127.0.0.1 spamster-bulk.autodesk.com
+127.0.0.1 sswwwp.autodesk.com
+127.0.0.1 trialdownload.autodesk.com
+127.0.0.1 usa.autodesk.com
+127.0.0.1 uspetcr12ie_198.autodesk.com
+127.0.0.1 uspetcr12if.autodesk.com
+127.0.0.1 uspetcr12if_198.autodesk.com
+127.0.0.1 uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
+127.0.0.1 uspetcrs12ia_vlan500_2.autodesk.com
+127.0.0.1 uspetcrs12ib_vlan500_2.autodesk.com
+127.0.0.1 uspetne06ia_ib_untrust_dip7.autodesk.com
+127.0.0.1 usrelay.autodesk.com
+127.0.0.1 ussclout1.autodesk.com
+127.0.0.1 vzwlpsrel.autodesk.com
+127.0.0.1 vzwlpstst.autodesk.com
+127.0.0.1 web.autodesk.com
+127.0.0.1 webservices.autodesk.com
+127.0.0.1 wormhole.autodesk.com
+127.0.0.1 http://www.autodesk.com
+127.0.0.1 www3.autodesk.com
