@@ -1,3 +1,5 @@
+||idp.auth.autodesk.com
+||ase.autodesk.com
 ||www.autodesk.com
 ||access.clic.autodesk.com
 ||clm.clic.autodesk.com
