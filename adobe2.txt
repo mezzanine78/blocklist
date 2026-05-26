@@ -1,5 +1,5 @@
-||.services.adobe.com
-||*.services.adobe.com
+||services.adobe.com
+||services.adobe.com
 ||0mo5a70cqa.adobe.io
 ||100.24.211.130
 ||13.227.103.57
