@@ -1,3 +1,4 @@
+||mobaxterm.mobatek.net
 ||blog-dev2.mobatek.net
 ||blog.mobatek.net
 ||188.165.196.87
