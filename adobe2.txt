@@ -1,3 +1,4 @@
+||adobe-aem.map.fastly.net
 ||services.adobe.com
 ||services.adobe.com
 ||0mo5a70cqa.adobe.io
